@@ -1,0 +1,9 @@
+POST /proxy.php?h=127.0.0.1&p=8888 HTTP/1.1
+Host: 127.0.0.1
+Accept-Encoding: identity
+Connection: keep-alive
+C: W
+Cookie: PHPSESSID=uiivn0j2t9gciiee8ucp27b735; path=/
+Content-Length: 12
+
+Hello World!
